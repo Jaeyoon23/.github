@@ -1,4 +1,4 @@
-# 👋 Welcome to FiveGuys! 
+818598# 👋 Welcome to FiveGuys! 
 We are....
 
 ---
@@ -13,9 +13,10 @@ We are....
 
 | Name        | Role              | Responsibilities |
 |------------|----------------|----------------|
-| Chaewon Park | Coordinator | Oversees progress, sets deadlines, and coordinates team efforts. |
-| Youjae Park | Project Leader | ??? Developement |
-| Jaeyoon Lee | Developer  | ??? Developement |
-| Allen Lee | Developer | ??? Developement |
-| Austin Kim | Developer | ??? Developement |
+| Chaewon Park | Coordinator | Manages team, sets deadlines, and coordinates team efforts. |
+| Youjae Park | Project Leader | Oversees development, manages overall development. |
+| Jaeyoon Lee | Data Manager | Manages data analysis and project documentation. |
+| Austin Kim | Integration Lead | Focuses on development, manages system integration.|
+| Allen Lee | Developer | Optimizes system performance and functionality. |
+
 
