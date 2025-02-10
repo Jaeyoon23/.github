@@ -14,7 +14,8 @@ We are....
 | Name        | Role              | Responsibilities |
 |------------|----------------|----------------|
 | Chaewon Park | Coordinator | Oversees progress, sets deadlines, and coordinates team efforts. |
-| Jaeyoon Lee | TBD  | TBD |
-| Allen Lee | TBD | TBD |
-| Austin Kim | TBD | TBD |
-| Youjae Park | Project Leader | TBD |
+| Youjae Park | Project Leader | ??? Developement |
+| Jaeyoon Lee | Developer  | ??? Developement |
+| Allen Lee | Developer | ??? Developement |
+| Austin Kim | Developer | ??? Developement |
+
