@@ -16,7 +16,7 @@ We are....
 | Chaewon Park | Coordinator | Manages team, sets deadlines, and coordinates team efforts. |
 | Youjae Park | Project Leader | Oversees development, manages overall development. |
 | Jaeyoon Lee | Data Manager | Manages data analysis and project documentation. |
-| Austin Kim | Integration Lead | Focuses on development, manages system integration.|
+| Austin Kim | Integration Lead | Focuses on development, manages system integration.|
 | Allen Lee | Developer | Optimizes system performance and functionality. |
 
 
